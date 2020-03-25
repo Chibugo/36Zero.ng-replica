@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+.nav-link {
+    color: white !important;
+}
+.nav-link:hover {
+    color: orange !important;
+}
+.nav-link:active {
+    color: orange !important;
+}
+.head-er {
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    font-weight: bolder;
+    font-size: 3rem;
+}
+.welcome-text {
+    /* width: 72rem; */
+    font-size: 1.7rem;
+    line-height: 3rem;
+}
+button {
+    border: 2px solid rgb(246, 105, 54) !important;
+    font-size: 1rem !important;
+    font-weight: bold !important;
+}
+button:hover {
+    background-color: rgb(246, 105, 54);
+}
