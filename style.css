@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    font-family: 'Nunito', sans-serif;
 }
 .nav-link {
     color: white !important;
@@ -10,10 +11,7 @@ body {
 .nav-link:active {
     color: orange !important;
 }
-.head-er {
-    font-family: 'Nunito', sans-serif;
-}
-h1{
+.b-heading{
     font-weight: bolder;
     font-size: 3rem;
 }
@@ -22,11 +20,46 @@ h1{
     font-size: 1.7rem;
     line-height: 3rem;
 }
-button {
+.btn-1 {
     border: 2px solid rgb(246, 105, 54) !important;
-    font-size: 1rem !important;
+    letter-spacing: 0.2rem !important;
+    font-size: 0.8rem !important;
     font-weight: bold !important;
 }
-button:hover {
+.btn-1:hover {
     background-color: rgb(246, 105, 54);
+}
+
+/* TRIBE */
+.top {
+    height: 35rem;
+}
+.tr-heading {
+    font-size: 4rem;
+}
+.tribe-p, .we-p {
+    font-size: 1.1rem;
+}
+.we-are {
+    height: 24rem;
+}
+.we-head {
+    font-weight: bolder;
+}
+hr {
+    border-top: 1px ridge rgb(246, 105, 54);
+    width: 7rem;
+}
+.we-p {
+    line-height: 2rem;
+}
+.history {
+    height: 30rem;
+}
+.h-body {
+    line-height: 1.9rem;
+    font-size: 1.2rem;
+}
+.s-heading {
+    font-weight: bolder !important;
 }
