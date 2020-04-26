@@ -53,9 +53,6 @@ hr {
 .we-p {
     line-height: 2rem;
 }
-.history {
-    /* height: 30rem; */
-}
 .h-body {
     line-height: 1.9rem;
     font-size: 1.2rem;
@@ -76,4 +73,19 @@ hr {
 }
 .spec-text {
     font-size: 1.2rem;
+}
+
+/* SOLUTIONS */
+.sln-top {
+    height: 30rem;
+}
+.sln-heading {
+    font-size: 4.5rem !important;
+}
+.sln-p {
+    font-size: 1.4rem;
+}
+.sectn-2-heading {
+    font-size: 2.7rem;
+    font-weight: bold;
 }
